@@ -1,0 +1,16 @@
+create database schoolmanagement;
+
+use schoolmanagement
+
+create table complaints values (topics varchar(20), body varchar(200));
+
+create table infra_11-a values (Asset varchar(20), quantity int(100), damaged int(100));
+
+create table infra_11-b values (Asset varchar(20), quantity int(100), damaged int(100));
+
+create table infra_12-a values (Asset varchar(20), quantity int(100), damaged int(100));
+
+create table infra_12-b values (Asset varchar(20), quantity int(100), damaged int(100));
+
+
+
